@@ -34,9 +34,7 @@ Currently working on:
 <!-- Backend -->
 <h3>Backend</h3>
 
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
-</a>
+
 
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -45,14 +43,17 @@ Currently working on:
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
-
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
+</a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-</a>
+
 
 <br><br>
 
