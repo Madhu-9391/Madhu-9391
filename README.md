@@ -5,7 +5,7 @@ A Full Stack Developer from India, based in Andhra Pradesh.
 Software Engineer focused on Full Stack Development, AI/ML, and scalable backend systems.
 Currently working on:
 • UAV-based road damage detection using computer vision and deep learning  
-• Performance-optimized MERN and Java applications  
+• Performance-optimized Java Full Stack and MERN applications  
 • Real-time systems and intelligent automation
 
 ## Technology Stack
